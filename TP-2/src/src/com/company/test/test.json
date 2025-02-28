@@ -1,0 +1,9 @@
+{
+  "Nom_De_Personne": "Alice",
+  "age": 25,
+  "isActive": true,
+  "salary": 3000.0,
+  "id": 12345,
+  "initial": "A",
+  "weight": 60
+}
